@@ -17,7 +17,7 @@
 - React 기반 회원 관련 component 및 layout 구성
 
 프로젝트 Github
-👉 https://github.com/여기에-팀레포-주소
+👉 https://github.com/Team-With-Three-People/KDReservation.git
 
 핵심 경험
 - 협업을 통한 기능 구현 경험
